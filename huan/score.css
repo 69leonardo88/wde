@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://c.files.bbci.co.uk/E909/production/_112375695_crucible976.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}  
+table{
+    color: rgb(165, 197, 177);
+    font-size: xx-large
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+ td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th{
+    color: yellow;
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: rgb(211, 146, 123);}
